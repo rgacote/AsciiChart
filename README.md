@@ -1,4 +1,4 @@
-# AsciiChart
+# ASCII Chart
 Decimal, hexadecimal, and octal ASCII character chart.
 
 | CHAR  | DEC  | HEX  | OCT  |
